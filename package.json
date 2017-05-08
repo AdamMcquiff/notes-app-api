@@ -1,0 +1,11 @@
+{
+  "name": "notes-app-api",
+  "version": "1.0.0",
+  "description": "basic node.js api for a generic note taking app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam McKenna",
+  "license": "ISC"
+}
